@@ -1,0 +1,45 @@
+html {
+    font-size: 12px
+    font:'Rubik', sans-serif;
+    background-color: black
+}
+
+h1 {
+    font-size:80px;
+    text-align: center;
+    color: white
+}
+h4 {
+    font-size:60px;
+    text-align: center;
+    color: white
+}
+img {
+    display: table-column;
+    margin: 0 auto;
+}
+h2 {
+    font-size:60px;
+    text-align: center;
+    color: white
+}
+p {
+    font-size:14px;
+    text-align: center;
+    color: white
+}
+p1{
+    font-size:14px;
+    text-align: center;
+    color: white
+}
+        p2{
+    font-size:20px;
+    text-align: center;
+    color: white
+}
+p5{
+    font-size:12px;
+    text-align: center;
+    color: white
+}
